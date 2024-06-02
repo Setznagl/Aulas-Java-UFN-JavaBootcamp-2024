@@ -103,15 +103,13 @@ public class Main {
                 if (AcaoAdicional == 1) {
                     fluxoDeEscolha();
                     break;
-                }
-                break;
+                }break;
             }
             case 2: {
                 Turmas.listarAlunos();
                 break;
             }
-            default:
-                break;
+            default: break;
         }
     }
 }
