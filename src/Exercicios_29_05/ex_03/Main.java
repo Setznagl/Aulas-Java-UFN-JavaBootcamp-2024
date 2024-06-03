@@ -45,10 +45,23 @@ public class Main {
         switch (Selecionado){
             case 1:{
                 System.out.println("Digite nome do produto, preço e quantidade");
+                // Adicionando produtos ao carrinho
                 Produto produto1 = new Produto();
                 Carrinho.AdicionarProduto(produto1);
+                System.out.println("Cadastrado com sucesso!");
+                ///////////////////////////////////
+                // Adicionando produtos ao carrinho
+                Produto produto2 = new Produto();
+                Carrinho.AdicionarProduto(produto2);
+                System.out.println("Cadastrado com sucesso!");
+                ///////////////////////////////////
+                // Adicionando produtos ao carrinho
+                Produto produto3 = new Produto();
+                Carrinho.AdicionarProduto(produto3);
+                System.out.println("Cadastrado com sucesso!");
+                ///////////////////////////////////
 
-                System.out.println("Livros cadastrados com sucesso");
+                System.out.println("Produtos cadastrados com sucesso");
 
                 System.out.println("Deseja realizar outra função?\n 1- sim     2- não ");
                     int AcaoAdicional = LerOpcao();

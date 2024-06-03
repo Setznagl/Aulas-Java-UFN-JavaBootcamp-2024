@@ -12,10 +12,12 @@ public class Carrinho {
     }
     protected static void exibirCarrinho() {
         for (Produto produtoDuranteLoop : Carrinho) {
-            double iteracaoParaSubtotal = CalcularSubtotal(produtoDuranteLoop);
+            double iteracaoParaSubtotal = Produto.CalcularSubtotal(produtoDuranteLoop);
             Subtotal += iteracaoParaSubtotal;
 
             System.out.println(produtoDuranteLoop);
         }
+        System.out.println("O Subtotal de todos os items é de: R$ " + Subtotal);
     }
+
 }
