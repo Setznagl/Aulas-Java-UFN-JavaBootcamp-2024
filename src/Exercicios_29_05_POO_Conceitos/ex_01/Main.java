@@ -1,5 +1,4 @@
-package Exercicios_29_05.ex_03;
-
+package Exercicios_29_05_POO_Conceitos.ex_01;
 import java.util.Scanner;
 
 public class Main {
@@ -19,8 +18,8 @@ public class Main {
                 System.out.println("""
                         Bem vindo ao sistema de cadastro de livros
                         O que deseja realizar?\s
-                        1- Cadastrar Produto e Adicionar ao Carrinho
-                        2- Listar Carrinho
+                        1- Cadastrar Livros
+                        2- Listar Livros
                         3- Finalizar
                         """);
                 Opcao = LerDados.nextInt();
@@ -32,36 +31,29 @@ public class Main {
 
     static void fluxoDeEscolha(){
         System.out.println("""
-                        Bem vindo ao sistema de cadastro de livros
-                        O que deseja realizar?\s
-                        1- Cadastrar Produto e Adicionar ao Carrinho
-                        2- Listar Carrinho
-                        3- Finalizar
-                        """);
+                Bem vindo ao sistema de cadastro de livros
+                O que deseja realizar?\s
+                1- Cadastrar Livros
+                2- Listar Livros
+                3- Finalizar Programa
+                """);
 
         int Selecionado = LerOpcao();
         System.out.println("Foi selecionado a opção " + Selecionado);
 
         switch (Selecionado){
             case 1:{
-                System.out.println("Digite nome do produto, preço e quantidade");
-                // Adicionando produtos ao carrinho
-                Produto produto1 = new Produto();
-                Carrinho.AdicionarProduto(produto1);
-                System.out.println("Cadastrado com sucesso!");
-                ///////////////////////////////////
-                // Adicionando produtos ao carrinho
-                Produto produto2 = new Produto();
-                Carrinho.AdicionarProduto(produto2);
-                System.out.println("Cadastrado com sucesso!");
-                ///////////////////////////////////
-                // Adicionando produtos ao carrinho
-                Produto produto3 = new Produto();
-                Carrinho.AdicionarProduto(produto3);
-                System.out.println("Cadastrado com sucesso!");
-                ///////////////////////////////////
+                System.out.println("Digite nome, autor, editora, ano de publicação e preço");
+                Livro livro1 = new Livro();
+                Biblioteca.AdicionarLivro(livro1);
+                System.out.println("Digite nome, autor, editora, ano de publicação e preço");
+                Livro livro2 = new Livro();
+                Biblioteca.AdicionarLivro(livro2);
+                System.out.println("Digite nome, autor, editora, ano de publicação e preço");
+                Livro livro3 = new Livro();
+                Biblioteca.AdicionarLivro(livro3);
 
-                System.out.println("Produtos cadastrados com sucesso");
+                System.out.println("Livros cadastrados com sucesso");
 
                 System.out.println("Deseja realizar outra função?\n 1- sim     2- não ");
                     int AcaoAdicional = LerOpcao();
@@ -72,7 +64,7 @@ public class Main {
                 break;
             }
             case 2:{
-                Carrinho.exibirCarrinho();
+                Biblioteca.exibirLivros();
                 break;
             }
             default: break;

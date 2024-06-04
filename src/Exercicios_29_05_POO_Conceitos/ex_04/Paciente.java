@@ -1,4 +1,4 @@
-package Exercicios_29_05.ex_04;
+package Exercicios_29_05_POO_Conceitos.ex_04;
 import java.util.Scanner;
 
 public class Paciente {

@@ -1,4 +1,4 @@
-package Exercicios_29_05.ex_02;
+package Exercicios_29_05_POO_Conceitos.ex_02;
 import java.util.Scanner;
 
 public class Aluno {
