@@ -4,6 +4,7 @@ public class ImpostoDeRenda{
     protected int faixa;
     protected double aliquota;
 
+    protected ImpostoDeRenda(){};
     protected ImpostoDeRenda(Pessoa pessoaParametro){
         faixa = FaixaImpostoDeRenda.CalcularFaixa(pessoaParametro);
         aliquota = calcularAliquota(faixa , pessoaParametro.getSalarioPessoa());
@@ -11,7 +12,8 @@ public class ImpostoDeRenda{
 
     @Override
     public String toString(){
-        return  "Sua faixa de imposto é de: "+ faixa + " portanto o valor a pagar é de R$ : " + aliquota;
+        return  "Sua faixa de imposto é de "+ faixa + " portanto o valor a pagar é de R$ : "
+                + String.format("%.2f", aliquota);
     }
 
     protected static double calcularAliquota(int faixaParametro , double pessoaParametroSalario) {
@@ -31,10 +33,9 @@ public class ImpostoDeRenda{
         return aliquota;
     }
 
-
-
-    protected static void imprimir(){
-        System.out.println("");
+    protected static void imprimir(Pessoa pessoaParametro , ImpostoDeRenda impostoPessoaParametro){
+        System.out.println(pessoaParametro);
+        System.out.println(impostoPessoaParametro);
     }
 }
 
