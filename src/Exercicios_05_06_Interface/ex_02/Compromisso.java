@@ -1,4 +1,4 @@
-package Exercicios_04_06_Interface.ex_02;
+package Exercicios_05_06_Interface.ex_02;
 import java.util.Scanner;
 
 class Compromisso implements Profissional, Pessoal {

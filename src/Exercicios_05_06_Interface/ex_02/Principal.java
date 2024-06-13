@@ -1,4 +1,4 @@
-package Exercicios_04_06_Interface.ex_02;
+package Exercicios_05_06_Interface.ex_02;
 
 public class Principal extends Compromisso {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Exercicios_04_06_Interface.ex_01;
+package Exercicios_05_06_Interface.ex_01;
 
 abstract class Mensagem {
     abstract void exibeMensagemA();
