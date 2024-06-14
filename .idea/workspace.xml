@@ -4,7 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Rename directories" />
+    <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Rename directories">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_01/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_01/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_02/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_02/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_02/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_02/SerHumano.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_03/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_03/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_03/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_04/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_04/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_04/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_04/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_03_06_Heranca/ex_04/apresentarDados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_05_06_Interface/ex_01/Mensagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_05_06_Interface/ex_01/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_05_06_Interface/ex_02/Compromisso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_05_06_Interface/ex_02/Pessoal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_05_06_Interface/ex_02/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_05_06_Interface/ex_02/Profissional.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Divisao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Multiplicacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Operacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Soma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Subtracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/Exercícios Em Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_01/Biblioteca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_01/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_01/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_02/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_02/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_02/Turmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_03/Carrinho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_03/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_03/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_04/Paciente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_04/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_05/FaixaImpostoDeRenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_05/ImpostoDeRenda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_05/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/Exercicios_29_05_POO_Conceitos/ex_05/Principal.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,31 +104,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Exercicios_04_06_Interface.ex_02.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_29_05.ex_01.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_29_05.ex_02.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercicios_29_05.ex_03.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gabri/IdeaProjects/Aulas-Java-UFN-JavaBootcamp-2024/src/Exercicios_29_05/ex_03&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Exercicios_04_06_Interface.ex_02.Principal.executor": "Run",
+    "Application.Exercicios_29_05.ex_01.Main.executor": "Run",
+    "Application.Exercicios_29_05.ex_02.Main.executor": "Run",
+    "Application.Exercicios_29_05.ex_03.Main.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gabri/IdeaProjects/Aulas-Java-UFN-JavaBootcamp-2024/src/Exercicios_29_05/ex_03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gabri\IdeaProjects\Aulas-Java-UFN-JavaBootcamp-2024\src\Exercicios_29_05\ex_03" />
@@ -165,6 +217,7 @@
       <workItem from="1718296870248" duration="492000" />
       <workItem from="1718316567603" duration="329000" />
       <workItem from="1718321330613" duration="2970000" />
+      <workItem from="1718341079479" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="Starting the resolution">
       <option name="closed" value="true" />
@@ -230,7 +283,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718341061916</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Rename directories">
+      <option name="closed" value="true" />
+      <created>1718341099664</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718341099664</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Rename directories">
+      <option name="closed" value="true" />
+      <created>1718341109742</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718341109742</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
