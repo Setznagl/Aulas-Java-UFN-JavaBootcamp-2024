@@ -1,4 +1,4 @@
-package Exercicios_06_06_Exceptions.ex_01.ex_01;
+package Exercicios_06_06_Exceptions.ex_01;
 
 abstract class Operacao {
     protected double a;

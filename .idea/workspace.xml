@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Rename directories">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Divisao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Multiplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Operacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Subtracao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_02/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_02/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Divisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Divisao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Multiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Multiplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Operacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Operacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Subtracao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,34 +62,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Exercicios_04_06_Interface.ex_02.Principal.executor": "Run",
-    "Application.Exercicios_06_06_Sobrescrita_e_Sobrecarga.ex_02.Principal.executor": "Run",
-    "Application.Exercicios_29_05.ex_01.Main.executor": "Run",
-    "Application.Exercicios_29_05.ex_02.Main.executor": "Run",
-    "Application.Exercicios_29_05.ex_03.Main.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/a920062/Desktop/Repostórios Clonados/Aulas-Java-UFN-JavaBootcamp-2024/src/Exercicios_06_06_Exceptions/ex_01",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "settings.qodana",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Exercicios_04_06_Interface.ex_02.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_06_06_Sobrescrita_e_Sobrecarga.ex_02.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_29_05.ex_01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_29_05.ex_02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercicios_29_05.ex_03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a920062/Desktop/Repostórios Clonados/Aulas-Java-UFN-JavaBootcamp-2024/src/Exercicios_06_06_Exceptions/ex_01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\a920062\Desktop\Repostórios Clonados\Aulas-Java-UFN-JavaBootcamp-2024\src\Exercicios_06_06_Exceptions\ex_01" />
@@ -104,7 +102,7 @@
       <recent name="Exercicios_29_05.ex_01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -180,6 +178,7 @@
       <workItem from="1718316567603" duration="329000" />
       <workItem from="1718321330613" duration="2970000" />
       <workItem from="1718341079479" duration="79000" />
+      <workItem from="1718393930905" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="Starting the resolution">
       <option name="closed" value="true" />
