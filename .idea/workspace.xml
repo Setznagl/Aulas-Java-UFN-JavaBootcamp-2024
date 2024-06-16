@@ -6,12 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Rename directories">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Divisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Divisao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Multiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Multiplicacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Operacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Operacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Soma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/ex_01/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Subtracao.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Divisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Divisao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Multiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Multiplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Operacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Operacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Sobrescrita_e_Sobrecarga/ex_01/Subtracao.java" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +71,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -88,6 +98,34 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Exercicios_04_06_Interface.ex_02.Principal.executor": "Run",
+    "Application.Exercicios_06_06_Sobrescrita_e_Sobrecarga.ex_01.Principal.executor": "Run",
+    "Application.Exercicios_29_05.ex_01.Main.executor": "Run",
+    "Application.Exercicios_29_05.ex_02.Main.executor": "Run",
+    "Application.Exercicios_29_05.ex_03.Main.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gabri/IdeaProjects/Aulas-Java-UFN-JavaBootcamp-2024/src/Exercicios_29_05/ex_03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.qodana",
+    "vue.rearranger.settings.migration": "true"
+>>>>>>> Stashed changes
   }
 }</component>
   <component name="RecentsManager">
@@ -102,7 +140,7 @@
       <recent name="Exercicios_29_05.ex_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -178,7 +216,11 @@
       <workItem from="1718316567603" duration="329000" />
       <workItem from="1718321330613" duration="2970000" />
       <workItem from="1718341079479" duration="79000" />
+<<<<<<< Updated upstream
       <workItem from="1718393930905" duration="672000" />
+=======
+      <workItem from="1718341166098" duration="1654000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="Starting the resolution">
       <option name="closed" value="true" />
