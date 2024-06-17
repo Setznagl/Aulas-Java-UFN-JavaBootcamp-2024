@@ -9,6 +9,6 @@ class Subtracao extends Operacao{
 
     @Override
     public String toString() {
-        return "Soma{" + "resultado= " + resultado + '}';
+        return "Subtração{" + "resultado= " + resultado + '}';
     }
 }

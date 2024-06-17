@@ -9,6 +9,6 @@ class Divisao extends Operacao{
 
     @Override
     public String toString() {
-        return "Soma{" + "resultado= " + resultado + '}';
+        return "Divisão{" + "resultado= " + resultado + '}';
     }
 }
