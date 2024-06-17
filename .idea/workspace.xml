@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Rename directories">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Divisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Divisao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Multiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Multiplicacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Operacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Operacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Soma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Subtracao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios_06_06_Exceptions/ex_01/Subtracao.java" afterDir="false" />
-    </list>
+    <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Rename directories" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,7 +176,7 @@
       <workItem from="1718321330613" duration="2970000" />
       <workItem from="1718341079479" duration="79000" />
       <workItem from="1718341166098" duration="1654000" />
-      <workItem from="1718572439518" duration="5841000" />
+      <workItem from="1718572439518" duration="6164000" />
     </task>
     <task id="LOCAL-00001" summary="Starting the resolution">
       <option name="closed" value="true" />
