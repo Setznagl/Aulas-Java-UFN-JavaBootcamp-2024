@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Rename directories">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/classes/ProdutoEletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/classes/ProdutoRoupa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/ProdutoBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/ProdutoBase.java" afterDir="false" />
-    </list>
+    <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Merge branch 'master' of https://github.com/Setznagl/Java-UFN-JavaBootcamp-2024-Java-Conceitos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,6 +179,7 @@
       <workItem from="1718709898605" duration="4902000" />
       <workItem from="1718793841490" duration="971000" />
       <workItem from="1718797767542" duration="4448000" />
+      <workItem from="1718839139826" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="Starting the resolution">
       <option name="closed" value="true" />
@@ -266,7 +261,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718341109742</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=".">
+      <option name="closed" value="true" />
+      <created>1718839305066</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718839305066</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge branch 'master' of https://github.com/Setznagl/Java-UFN-JavaBootcamp-2024-Java-Conceitos">
+      <option name="closed" value="true" />
+      <created>1718839406358</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718839406358</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,7 +299,10 @@
     <MESSAGE value="Starting the resolution of the exercise number three" />
     <MESSAGE value="Finishing the exercise number four" />
     <MESSAGE value="Rename directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename directories" />
+    <MESSAGE value=".&#10;&#10;." />
+    <MESSAGE value="." />
+    <MESSAGE value="Merge branch 'master' of https://github.com/Setznagl/Java-UFN-JavaBootcamp-2024-Java-Conceitos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Setznagl/Java-UFN-JavaBootcamp-2024-Java-Conceitos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
