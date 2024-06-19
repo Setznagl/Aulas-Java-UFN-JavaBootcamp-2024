@@ -1,6 +1,6 @@
 package Exercicio_Final_Java.interfaces;
 
-interface Produto {
+public interface Produto {
     // Getters
     public String getTipo();
     public String getNome();

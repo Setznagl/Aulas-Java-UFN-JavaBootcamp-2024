@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cda2d3be-b10a-402d-842d-0edd847bbe63" name="Changes" comment="Rename directories">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/ProdutoBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/classes/ProdutoEletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/classes/ProdutoRoupa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/ProdutoBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio_Final_Java/interfaces/ProdutoBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +102,7 @@
       <recent name="Exercicios_29_05.ex_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -182,6 +184,7 @@
       <workItem from="1718646204024" duration="5419000" />
       <workItem from="1718709898605" duration="4902000" />
       <workItem from="1718793841490" duration="971000" />
+      <workItem from="1718797767542" duration="4448000" />
     </task>
     <task id="LOCAL-00001" summary="Starting the resolution">
       <option name="closed" value="true" />
